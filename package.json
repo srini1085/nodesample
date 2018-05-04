@@ -1,0 +1,22 @@
+{
+  "name": "node-srini-sample",
+  "version": "1.0.0",
+  "description": "This is sample node package to test its ability",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srini1085/nodesample.git"
+  },
+  "keywords": [
+    "NodeSample"
+  ],
+  "author": "Srini <srini.bca22@gmail.com> (https://github.com/srini1085/nodesample.git)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srini1085/nodesample/issues"
+  },
+  "homepage": "https://github.com/srini1085/nodesample#readme"
+}
